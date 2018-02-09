@@ -18,3 +18,4 @@ Note, the basis for this comes largely from [Rachit Mishra's work](https://becom
     * Psalms
 * saved the results of the above predictions to a sqlite db
 
+Also note that the training data comes from a movie review corpus so the accuracy of results against one of the oldest texts in history are questionable at best, even though I chose to use a modern translation of the bible (MSG)
